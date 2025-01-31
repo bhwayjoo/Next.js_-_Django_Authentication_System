@@ -1,6 +1,6 @@
 # Account
 
-A modern web application built with Next.js and Django, featuring secure account management and real-time chat functionality.
+A modern web application built with Next.js and Django, featuring secure account management .
 
 ## Features
 
@@ -19,17 +19,6 @@ A modern web application built with Next.js and Django, featuring secure account
   - Change Password
   - Email Verification Status
   - Account Status Tracking
-
-- 💬 Chat System
-
-  - Real-time Messaging
-  - User-to-User Communication
-  - Message History
-
-- 🎨 Modern UI
-  - Responsive Design
-  - Dark/Light Theme Support
-  - Clean and Intuitive Interface
 
 ## Tech Stack
 
@@ -55,7 +44,6 @@ A modern web application built with Next.js and Django, featuring secure account
 
 - Python 3.8+
 - Node.js 16+
-- PostgreSQL
 - Git
 
 ### Backend Setup
